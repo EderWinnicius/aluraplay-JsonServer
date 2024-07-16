@@ -27,7 +27,7 @@
 
 .campo__escrita {
     width: 50vw;
-    border-radius: 24px;
+    border-radius: 5px;
     display: block;
     color: black;
     padding: 1em
@@ -43,6 +43,8 @@
 .formulario__botao {
     padding: 1em 3em;
     margin: 2em 0;
-    border-radius: 24px;
+    border-radius: 5px;
+    cursor: pointer;
     background-color: var(--azul-escuro);
+    box-shadow: 0px 1px 5px var(--azul-escuro);
 }

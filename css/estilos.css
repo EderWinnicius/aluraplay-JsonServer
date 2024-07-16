@@ -26,6 +26,7 @@ body {
 
 .cabecalho {
     background-color: white;
+    box-shadow: 0px 1px 10px var(--cinza-texto);
     position: fixed;
     top: 0;
     height: 80px;
